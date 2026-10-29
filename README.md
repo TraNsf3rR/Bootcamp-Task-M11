@@ -1,4 +1,8 @@
 # Bootcamp-Task-M11
+## Basic Auth Credentials
+- USER: username `user`, password `user`
+- ADMIN: username `admin`, password `admin`
+
 ## New repo made because the original files were in a monorepo and task instructions were to create a new repo.
 
 # Practical Task: Library Book Tracker API
