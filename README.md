@@ -1,3 +1,6 @@
+# Bootcamp-Task-M11
+## New repo made because the original files were in a monorepo and task instructions were to create a new repo.
+
 # Practical Task: Library Book Tracker API
 
 Starter project for Data Architecture practical task: Build a REST API for managing books in a library using Spring Boot, Spring Data JPA and an H2 database.
@@ -34,4 +37,4 @@ Complete all of the 'TODO' portions of the code. The finished application should
 Create and update requests require nonblank titles and authors, as well as a publication year. Update requests must also include `available`; `false` is a valid value. The genre is optional. Invalid request bodies return `400 Bad Request`.
 
 The entity stores `borrowedStatus`; `available` in responses is its inverse. New books start available and not borrowed.
-# Bootcamp-Task-M11
+
